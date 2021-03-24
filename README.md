@@ -21,7 +21,7 @@ Report any TripleThreat issues [on GitHub](https://github.com/893203/TripleThrea
 ## Important Info
 
 Mod | Keybinds | Does It Work | optional
-:------ | :------ | :----:
+:------ | :------ | :----: | :----:
 [Inventory Sorting](#inventory-sorting) | N/A | X | ✓ |
 [Valhiem FPS Boost](#valhiem-fps-boost) | N/A | ✓ | ✓ |
 [Add All Fuel And Ore For Smelter Charcoalkiln Etc](#add-all-fuel-and-ore-for-smelter-charcoalkiln-etc) | "Left-Shift" and "E" | ✓ | ✓ |
